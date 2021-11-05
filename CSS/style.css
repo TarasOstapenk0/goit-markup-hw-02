@@ -6,6 +6,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
+  font-weight: 400;
   color: var(--main-color);
 }
 .logo {
@@ -97,7 +98,6 @@ body {
 }
 .why-we-p {
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71em;
   /* or 171% */
@@ -189,7 +189,6 @@ body {
 .footer-address-link {
   text-decoration: none;
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71em;
   /* or 171% */
@@ -243,7 +242,7 @@ body {
 }
 .portfolio-project-type {
   font-style: normal;
-  font-weight: 400;
+
   font-size: 16px;
   line-height: 1.87em;
   /* identical to box height, or 187% */
