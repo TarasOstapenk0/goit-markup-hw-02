@@ -84,7 +84,7 @@ body {
 .why-we {
   background: #e5e5e5;
 }
-.why-we-list {
+.list {
   list-style-type: none;
 }
 .why-we-header {
@@ -105,9 +105,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--second-color);
 }
-.what-we-do-list {
-  list-style-type: none;
-}
+
 .what-we-do-header {
   font-style: normal;
   font-weight: 700;
@@ -129,14 +127,33 @@ body {
   letter-spacing: 0.03em;
   color: var(--main-color);
 }
-.team-list {
-  list-style-type: none;
-}
 .team-member {
   background: #ffffff;
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
+}
+.team-member-name {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19em;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--main-color);
+}
+.team-member-position {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.19;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--second-color);
 }
 .footer {
   background-color: #2f303a;
@@ -181,13 +198,11 @@ body {
 
   color: rgba(255, 255, 255, 0.6);
 }
-
+/* Porfolio page */
 .portfolio {
   background-color: #e5e5e5;
 }
-.portfolio-list {
-  list-style-type: none;
-}
+
 .portfolio-list-buttons {
   background-color: #f5f4fa;
   border-radius: 4px;
@@ -209,11 +224,30 @@ body {
   color: white;
   background-color: var(--hover-color);
 }
-.portfolio-projects {
-  list-style-type: none;
-}
+
 .portfolio-pojects-item {
   background-color: #ffffff;
   border: 1px solid #eeeeee;
   box-sizing: border-box;
+}
+.portfolio-project-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2em;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: var(--main-color);
+}
+.portfolio-project-type {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.87em;
+  /* identical to box height, or 187% */
+
+  letter-spacing: 0.03em;
+  color: var(--second-color);
 }
