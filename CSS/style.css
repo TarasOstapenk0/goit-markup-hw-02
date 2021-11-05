@@ -166,7 +166,7 @@ body {
   /* or 171% */
 
   letter-spacing: 0.03em;
-
+  text-decoration: none;
   color: #ffffff;
 }
 .footer-address-link {
