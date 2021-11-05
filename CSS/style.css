@@ -20,7 +20,7 @@ body {
   text-decoration: none;
   color: #000000;
 }
-.logo .logo-blue {
+.logo-blue {
   color: var(--hover-color);
 }
 .navigation {
