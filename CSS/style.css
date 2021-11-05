@@ -11,7 +11,7 @@ body {
 }
 .logo {
   font-family: Raleway;
-  font-style: normal;
+
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19em;
@@ -97,7 +97,6 @@ body {
   color: var(--main-color);
 }
 .why-we-p {
-  font-style: normal;
   font-size: 14px;
   line-height: 1.71em;
   /* or 171% */
@@ -107,7 +106,6 @@ body {
 }
 
 .what-we-do-header {
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 42px;
@@ -134,7 +132,6 @@ body {
   border-radius: 0px 0px 4px 4px;
 }
 .team-member-name {
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19em;
@@ -188,7 +185,7 @@ body {
 }
 .footer-address-link {
   text-decoration: none;
-  font-style: normal;
+
   font-size: 14px;
   line-height: 1.71em;
   /* or 171% */
@@ -241,8 +238,6 @@ body {
   color: var(--main-color);
 }
 .portfolio-project-type {
-  font-style: normal;
-
   font-size: 16px;
   line-height: 1.87em;
   /* identical to box height, or 187% */
