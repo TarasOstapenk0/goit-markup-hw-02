@@ -14,7 +14,7 @@ body {
 
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.19em;
+  line-height: 1.19;
 
   letter-spacing: 0.03em;
   text-decoration: none;
@@ -26,7 +26,7 @@ body {
 .navigation {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1.14em;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   background-color: white;
 }
@@ -41,7 +41,7 @@ body {
 .contacts {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1.14em;
+  line-height: 1.14;
   letter-spacing: 0.02em;
 }
 .link-contact {
@@ -58,7 +58,7 @@ body {
 .hero-header {
   font-weight: 900;
   font-size: 44px;
-  line-height: 1.36em;
+  line-height: 1.36;
   /* or 136% */
 
   text-align: center;
@@ -73,7 +73,7 @@ body {
   border-radius: 4px;
   font-weight: 700;
   font-size: 16px;
-  line-height: 1.87em;
+  line-height: 1.87;
   /* identical to box height, or 187% */
 
   align-items: center;
@@ -91,14 +91,14 @@ body {
 .why-we-header {
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--main-color);
 }
 .why-we-p {
   font-size: 14px;
-  line-height: 1.71em;
+  line-height: 1.71;
   /* or 171% */
 
   letter-spacing: 0.03em;
@@ -108,7 +108,7 @@ body {
 .what-we-do-header {
   font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--main-color);
@@ -120,7 +120,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.16em;
+  line-height: 1.16;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--main-color);
@@ -134,7 +134,7 @@ body {
 .team-member-name {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.19em;
+  line-height: 1.19;
   /* identical to box height */
 
   text-align: center;
@@ -160,7 +160,7 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 1.19em;
+  line-height: 1.19;
   text-decoration: none;
   letter-spacing: 0.03em;
 
@@ -176,7 +176,7 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 1.71em;
+  line-height: 1.71;
   /* or 171% */
 
   letter-spacing: 0.03em;
@@ -187,7 +187,7 @@ body {
   text-decoration: none;
 
   font-size: 14px;
-  line-height: 1.71em;
+  line-height: 1.71;
   /* or 171% */
 
   letter-spacing: 0.03em;
@@ -207,7 +207,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 1.62em;
+  line-height: 1.62;
   /* identical to box height, or 162% */
   padding: 15px 15px 15px 15px;
   text-align: center;
@@ -230,7 +230,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
-  line-height: 2em;
+  line-height: 2;
   /* identical to box height, or 200% */
 
   letter-spacing: 0.06em;
@@ -239,7 +239,7 @@ body {
 }
 .portfolio-project-type {
   font-size: 16px;
-  line-height: 1.87em;
+  line-height: 1.87;
   /* identical to box height, or 187% */
 
   letter-spacing: 0.03em;
