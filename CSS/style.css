@@ -16,6 +16,9 @@ body {
   color: var(--main-color);
   background-color: var(--page-background-color);
 }
+.not-visible {
+  visibility: hidden;
+}
 .logo {
   font-family: Raleway, sans-serif;
 
